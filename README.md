@@ -1,2 +1,2 @@
 # cintel
-Continous intelligence and interactive analytics and Python and Panel
+Continous intelligence and interactive analytics with Python and Panel
